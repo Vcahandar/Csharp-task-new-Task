@@ -1,0 +1,15 @@
+C:\Users\user\OneDrive\Masaüstü\alqoritm c#\Alqoritms\Alqoritms\bin\Debug\net6.0\Alqoritms.exe
+C:\Users\user\OneDrive\Masaüstü\alqoritm c#\Alqoritms\Alqoritms\bin\Debug\net6.0\Alqoritms.deps.json
+C:\Users\user\OneDrive\Masaüstü\alqoritm c#\Alqoritms\Alqoritms\bin\Debug\net6.0\Alqoritms.runtimeconfig.json
+C:\Users\user\OneDrive\Masaüstü\alqoritm c#\Alqoritms\Alqoritms\bin\Debug\net6.0\Alqoritms.dll
+C:\Users\user\OneDrive\Masaüstü\alqoritm c#\Alqoritms\Alqoritms\bin\Debug\net6.0\Alqoritms.pdb
+C:\Users\user\OneDrive\Masaüstü\alqoritm c#\Alqoritms\Alqoritms\obj\Debug\net6.0\Alqoritms.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive\Masaüstü\alqoritm c#\Alqoritms\Alqoritms\obj\Debug\net6.0\Alqoritms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive\Masaüstü\alqoritm c#\Alqoritms\Alqoritms\obj\Debug\net6.0\Alqoritms.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive\Masaüstü\alqoritm c#\Alqoritms\Alqoritms\obj\Debug\net6.0\Alqoritms.AssemblyInfo.cs
+C:\Users\user\OneDrive\Masaüstü\alqoritm c#\Alqoritms\Alqoritms\obj\Debug\net6.0\Alqoritms.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Masaüstü\alqoritm c#\Alqoritms\Alqoritms\obj\Debug\net6.0\Alqoritms.dll
+C:\Users\user\OneDrive\Masaüstü\alqoritm c#\Alqoritms\Alqoritms\obj\Debug\net6.0\refint\Alqoritms.dll
+C:\Users\user\OneDrive\Masaüstü\alqoritm c#\Alqoritms\Alqoritms\obj\Debug\net6.0\Alqoritms.pdb
+C:\Users\user\OneDrive\Masaüstü\alqoritm c#\Alqoritms\Alqoritms\obj\Debug\net6.0\Alqoritms.genruntimeconfig.cache
+C:\Users\user\OneDrive\Masaüstü\alqoritm c#\Alqoritms\Alqoritms\obj\Debug\net6.0\ref\Alqoritms.dll
